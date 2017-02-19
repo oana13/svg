@@ -11,7 +11,7 @@
     stroke-width: 10;
     stroke-dasharray: 850px;
     stroke-dashoffset: 850px;
-    animation-delay: 0s;
+    animation-delay: 1s;
     animation: draw 6s infinite linear;    
 }
 
